@@ -2,10 +2,6 @@
 
 A complete beginner-to-advanced guide for learning **The Composable Architecture (TCA)** in iOS development using **Swift**, **SwiftUI**, and **Swift Concurrency**.
 
-> **Goal:** Master TCA from first principles and learn how to build scalable, maintainable, and testable iOS applications.
-
----
-
 # 📖 About This Repository
 
 This repository documents my journey of learning **The Composable Architecture (TCA)**.
@@ -247,5 +243,3 @@ This repository is primarily a **learning resource**. The focus is on deeply und
 - 🧪 Unit testing
 - 🚀 Real-world projects
 - 🎯 Interview preparation
-
-The goal is not just to learn **how** to use TCA, but also **why** it was created, **when** to use it, and **how** it compares to other iOS architectures.
