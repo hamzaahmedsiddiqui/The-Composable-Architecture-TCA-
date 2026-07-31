@@ -1,4 +1,4 @@
-# 🚀 The Composable Architecture (TCA) Learning Journey
+# 🚀  The Composable Architecture (TCA) Learning Journey
 
 A complete beginner-to-advanced guide for learning **The Composable Architecture (TCA)** in iOS development using **Swift**, **SwiftUI**, and **Swift Concurrency**.
 
