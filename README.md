@@ -229,17 +229,3 @@ Suggestions, improvements, and discussions are always welcome. If you notice an 
 # ⭐ Acknowledgements
 
 Special thanks to the **Point-Free** team for creating and maintaining **The Composable Architecture (TCA)**, and to the Swift community for continuously sharing knowledge and best practices.
-
----
-
-# 📝 Notes
-
-This repository is primarily a **learning resource**. The focus is on deeply understanding TCA through:
-
-- 📖 Detailed explanations
-- 🧠 Concept breakdowns
-- 📊 Architecture diagrams
-- 💻 Practical examples
-- 🧪 Unit testing
-- 🚀 Real-world projects
-- 🎯 Interview preparation
